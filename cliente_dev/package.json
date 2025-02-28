@@ -22,7 +22,7 @@
     "@sendgrid/mail": "^7.1.0",
     "angular2-moment": "^1.9.0",
     "bootstrap": "^3.3.7",
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "moment": "^2.24.0",
     "popper.js": "^1.16.1",
     "rxjs": "^6.5.5",
